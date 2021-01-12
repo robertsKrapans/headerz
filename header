@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+<html>
+<head><script >
+  <!-- Grid container -->
+  <div class="container p-4 pb-0">
+    <form action="">
+      <!--Grid row-->
+      <div class="row">
+        <!--Grid column-->
+        <div class="col-auto mb-4 mb-md-0">
+          <p class="pt-2"><strong>Reģistrējies priekš jaunākajām ziņām</strong></p>
+        </div>
+        <!--Grid column-->
+
+        <!--Grid column-->
+        <div class="col-md-5 col-12 mb-4 mb-md-0">
+          <!-- Email input -->
+          <div class="form-outline mb-4">
+            <input type="email" id="form5Example2" class="form-control" />
+            <label class="form-label" for="form5Example2">Epata adrese</label>
+          </div>
+        </div>
+        <!--Grid column-->
+
+        <!--Grid column-->
+        <div class="col-auto mb-4 mb-md-0">
+          <!-- Submit button -->
+          <button type="submit" class="btn btn-primary mb-4">pievienojies</button>
+        </div>
+        <!--Grid column-->
+      </div>
+      <!--Grid row-->
+    </form>
+  </div>
+  <!-- Grid container -->
+    <nav aria-label="...">
+  <ul class="pagination">
+    <li class="page-item disabled">
+      <span class="page-link">Iepriekšējā lapa</span>
+    </li>
+    <li class="page-item"><a class="page-link" href="#">1</a></li>
+    <li class="page-item active" aria-current="page">
+      <span class="page-link">
+        2
+        <span class="visually-hidden">(current)</span>
+      </span>
+    </li>
+    <li class="page-item"><a class="page-link" href="#">3</a></li>
+    <li class="page-item">
+      <a class="page-link" href="#">Nākamā lapa</a>
+    </li>
+  </ul>
+</nav>
+
+    </script>
+   
+    </head>
+<body></body>
+</html>
